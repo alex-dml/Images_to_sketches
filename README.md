@@ -8,8 +8,8 @@ This work is a work in progress
 Execute training.py
 # Test
 Coming soon
-# Results
-Coming soon
+# First results
+![Caption](/test_sketch.png)
 # To Do
 ### Next steps to explore:
 - Using color images as input
