@@ -11,4 +11,7 @@ Coming soon
 # Results
 Coming soon
 # To Do
-Experimenting other loss functions
+### Next steps to explore:
+- Using color images as input
+- Tuning hyperparameters (currently: `identity_loss = 0.5`, `cycle_loss = 15.0`)
+- Integrating additional loss terms, such as **Canny** or **Sobel** based edge losses
